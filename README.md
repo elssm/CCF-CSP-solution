@@ -1,2 +1,1 @@
-# CCF-CSP历年真题 
-# use python
+# CCF-CSP历年真题
